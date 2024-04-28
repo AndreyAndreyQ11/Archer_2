@@ -1,0 +1,25 @@
+.grid_body {
+  display: grid;
+
+  grid-template-columns: 1fr 0.8fr 0.5fr 0.5fr 0.5fr 0.5fr 1fr 1fr;
+  /* grid-template-rows: 200px; */
+}
+
+.grid_item {
+  text-align: center;
+  padding: 2px;
+  border: 1px solid rgb(40, 47, 176);
+  background: rgba(22, 175, 86, 0.26);
+}
+
+.grid_delete {
+  background: rgba(246, 0, 0, 0.784) url("../image/delete.png") 50% / auto 90%
+    no-repeat;
+}
+.grid_add {
+  background: rgba(37, 246, 0, 0.784) url("../image/add.png") 50% / auto 90%
+    no-repeat;
+}
+.grid_item input {
+  width: 90%;
+}
