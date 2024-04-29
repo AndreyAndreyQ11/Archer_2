@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Archer_2/static/css/main.cc482011.css",
+    "main.js": "/Archer_2/static/js/main.7e8afa01.js",
+    "static/media/add.png": "/Archer_2/static/media/add.97a95254ba57c94e0f80.png",
+    "static/media/delete.png": "/Archer_2/static/media/delete.7079ab050f37ae61e08e.png",
+    "index.html": "/Archer_2/index.html",
+    "main.cc482011.css.map": "/Archer_2/static/css/main.cc482011.css.map",
+    "main.7e8afa01.js.map": "/Archer_2/static/js/main.7e8afa01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc482011.css",
+    "static/js/main.7e8afa01.js"
+  ]
+}
